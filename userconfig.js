@@ -23,9 +23,9 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
-              icon: "binary-tree",
+              name: "home",
+              url: "https://beedpro.github.io/startpage",
+              icon: "home",
               icon_color: palette.peach,
             },
           ],
