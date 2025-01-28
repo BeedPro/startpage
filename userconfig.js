@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -8,7 +8,7 @@ const default_config = {
     scale: "C",
   },
   clock: {
-    format: "h:i p",
+    format: "hh:i p",
     iconColor: palette.maroon,
   },
   disabled: [],
