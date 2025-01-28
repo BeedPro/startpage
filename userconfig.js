@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://duckduckgo.com/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -22,12 +22,6 @@ const default_config = {
         {
           name: "bookmarks",
           links: [
-            {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
-              icon_color: palette.green,
-            },
             {
               name: "musicForProgramming();",
               url: "https://musicforprogramming.net",
@@ -40,9 +34,9 @@ const default_config = {
           name: "workspace",
           links: [
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
+              name: "outlook",
+              url: "https://outlook.live.com/mail/0/",
+              icon: "mail",
               icon_color: palette.green,
             },
             {
@@ -52,10 +46,10 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
-              icon_color: palette.red,
+              name: "keats",
+              url: "https://keats.kcl.ac.uk",
+              icon: "school",
+              icon_color: palette.peach,
             },
             {
               name: "drive",
@@ -69,34 +63,10 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "YouTube",
+              url: "https://www.youtube.com",
+              icon: "brand-youtube",
               icon_color: palette.green,
-            },
-            {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
-              icon_color: palette.peach,
-            },
-            {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
-              icon_color: palette.red,
-            },
-            {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: palette.blue,
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
             },
           ],
         },
