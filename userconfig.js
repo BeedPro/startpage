@@ -46,7 +46,7 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "keats",
+              name: "school",
               url: "https://keats.kcl.ac.uk",
               icon: "school",
               icon_color: palette.peach,
