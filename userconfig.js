@@ -29,7 +29,7 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "home",
+              name: "syncthing",
               url: "http://127.0.0.1:8384/",
               icon: "refresh",
               icon_color: palette.peach,
