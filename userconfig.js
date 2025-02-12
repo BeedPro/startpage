@@ -28,6 +28,12 @@ const default_config = {
               icon: "home",
               icon_color: palette.peach,
             },
+            {
+              name: "home",
+              url: "http://127.0.0.1:8384/",
+              icon: "refresh",
+              icon_color: palette.peach,
+            },
           ],
         },
         {
